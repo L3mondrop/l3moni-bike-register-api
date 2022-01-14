@@ -1,0 +1,11 @@
+D:\Projektit\l3moni-NET6\l3moni-bike-register\l3moni-bike-register-api\bin\Release\net6.0\publish\l3moni-bike-register-api.exe
+D:\Projektit\l3moni-NET6\l3moni-bike-register\l3moni-bike-register-api\bin\Release\net6.0\publish\appsettings.Development.json
+D:\Projektit\l3moni-NET6\l3moni-bike-register\l3moni-bike-register-api\bin\Release\net6.0\publish\appsettings.json
+D:\Projektit\l3moni-NET6\l3moni-bike-register\l3moni-bike-register-api\bin\Release\net6.0\publish\l3moni-bike-register-api.dll
+D:\Projektit\l3moni-NET6\l3moni-bike-register\l3moni-bike-register-api\bin\Release\net6.0\publish\l3moni-bike-register-api.deps.json
+D:\Projektit\l3moni-NET6\l3moni-bike-register\l3moni-bike-register-api\bin\Release\net6.0\publish\l3moni-bike-register-api.runtimeconfig.json
+D:\Projektit\l3moni-NET6\l3moni-bike-register\l3moni-bike-register-api\bin\Release\net6.0\publish\l3moni-bike-register-api.pdb
+D:\Projektit\l3moni-NET6\l3moni-bike-register\l3moni-bike-register-api\bin\Release\net6.0\publish\Microsoft.OpenApi.dll
+D:\Projektit\l3moni-NET6\l3moni-bike-register\l3moni-bike-register-api\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projektit\l3moni-NET6\l3moni-bike-register\l3moni-bike-register-api\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projektit\l3moni-NET6\l3moni-bike-register\l3moni-bike-register-api\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
